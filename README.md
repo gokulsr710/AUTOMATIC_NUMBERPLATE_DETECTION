@@ -1,19 +1,6 @@
 # AUTOMATIC_NUMBERPLATE_DETECTION
 # Automatic Number Plate Detection and Low-Light Enhancement on FPGA
 
-Automatic number plate detection and low-light enhancement on the Terasic **DE2-115** (Cyclone IV E, EP4CE115F29C7), written entirely in Verilog HDL. An OV7670 camera feeds a hardware pipeline that finds the number plate in a snapshot, enhances it, and shows the result on a VGA monitor with a green bounding box.
-
-Course project: Digital System Design with FPGA Laboratory (MAVLD503), Department of Micro & Nanoelectronics, Vellore Institute of Technology.
-
-## Team
-
-| Name | Roll No. |
-|------|----------|
-| Kenny Gee Oberoi | 26MVD005 |
-| Gokul R | 26MVD0024 |
-| Lalit | 26MVD0027 |
-
-Guide: Dr. Jagannadha Naidu K
 
 ## How it works
 
